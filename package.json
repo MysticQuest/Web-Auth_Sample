@@ -1,0 +1,25 @@
+{
+  "name": "auth-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MysticQuest/Web-Auth_Sample.git"
+  },
+  "author": "Kiriakos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MysticQuest/Web-Auth_Sample/issues"
+  },
+  "homepage": "https://github.com/MysticQuest/Web-Auth_Sample#readme"
+}
